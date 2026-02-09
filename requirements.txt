@@ -1,0 +1,15 @@
+streamlit
+pandas
+folium
+geopy
+seaborn
+matplotlib
+networkx
+transformers
+langchain
+torch
+sqlite-utils
+geopandas
+shapely
+geodatasets
+streamlit-folium
