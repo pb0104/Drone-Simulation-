@@ -4,7 +4,6 @@
 
 This is an AI-driven, interactive simulation and analytics platform for drone delivery operations in New York City. Built with **Python** and **Streamlit**, it enables realistic drone route simulations, mission analytics, and performance optimization insights.
 
----
 
 ## 🌟 Key Features
 
@@ -112,4 +111,5 @@ Deploy easily to **Streamlit Community Cloud**:
 ## 🚨 Disclaimer
 
 This is a simulated drone logistics dashboard intended for **educational and demonstration purposes only**. It is **not designed for real-world drone operations**.
+
 
